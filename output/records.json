@@ -1,0 +1,533 @@
+﻿[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Recipe"
+      ],
+      "properties": {
+        "name": "Greek Salad"
+      },
+      "elementId": "0"
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Cucumber"
+      },
+      "elementId": "1"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Red onion"
+      },
+      "elementId": "2"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Feta cheese"
+      },
+      "elementId": "3"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Kalamata olives"
+      },
+      "elementId": "4"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Red wine vinegar"
+      },
+      "elementId": "5"
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Oregano"
+      },
+      "elementId": "6"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "Recipe"
+      ],
+      "properties": {
+        "name": "Pancakes"
+      },
+      "elementId": "7"
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Flour"
+      },
+      "elementId": "8"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Milk"
+      },
+      "elementId": "9"
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Egg"
+      },
+      "elementId": "10"
+    }
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Maple syrup"
+      },
+      "elementId": "11"
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Recipe"
+      ],
+      "properties": {
+        "name": "Fruit Salad"
+      },
+      "elementId": "12"
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Apple"
+      },
+      "elementId": "13"
+    }
+  },
+  {
+    "n": {
+      "identity": 14,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Banana"
+      },
+      "elementId": "14"
+    }
+  },
+  {
+    "n": {
+      "identity": 15,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Orange"
+      },
+      "elementId": "15"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Strawberry"
+      },
+      "elementId": "16"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Honey"
+      },
+      "elementId": "17"
+    }
+  },
+  {
+    "n": {
+      "identity": 18,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Lemon juice"
+      },
+      "elementId": "18"
+    }
+  },
+  {
+    "n": {
+      "identity": 19,
+      "labels": [
+        "Recipe"
+      ],
+      "properties": {
+        "name": "Caprese Salad"
+      },
+      "elementId": "19"
+    }
+  },
+  {
+    "n": {
+      "identity": 20,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Mozzarella cheese"
+      },
+      "elementId": "20"
+    }
+  },
+  {
+    "n": {
+      "identity": 21,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Basil"
+      },
+      "elementId": "21"
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Balsamic vinegar"
+      },
+      "elementId": "22"
+    }
+  },
+  {
+    "n": {
+      "identity": 23,
+      "labels": [
+        "Recipe"
+      ],
+      "properties": {
+        "name": "Tomato Sauce"
+      },
+      "elementId": "23"
+    }
+  },
+  {
+    "n": {
+      "identity": 24,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Tomato"
+      },
+      "elementId": "24"
+    }
+  },
+  {
+    "n": {
+      "identity": 25,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Onion"
+      },
+      "elementId": "25"
+    }
+  },
+  {
+    "n": {
+      "identity": 26,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Garlic"
+      },
+      "elementId": "26"
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "Recipe"
+      ],
+      "properties": {
+        "name": "Tomato Soup"
+      },
+      "elementId": "27"
+    }
+  },
+  {
+    "n": {
+      "identity": 28,
+      "labels": [
+        "Recipe"
+      ],
+      "properties": {
+        "name": "Classic Grilled Cheese Sandwich"
+      },
+      "elementId": "28"
+    }
+  },
+  {
+    "n": {
+      "identity": 29,
+      "labels": [
+        "Recipe"
+      ],
+      "properties": {
+        "name": "Tea"
+      },
+      "elementId": "29"
+    }
+  },
+  {
+    "n": {
+      "identity": 30,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Tea Powder"
+      },
+      "elementId": "30"
+    }
+  },
+  {
+    "n": {
+      "identity": 31,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Sugar"
+      },
+      "elementId": "31"
+    }
+  },
+  {
+    "n": {
+      "identity": 32,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Water"
+      },
+      "elementId": "32"
+    }
+  },
+  {
+    "n": {
+      "identity": 33,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "name": "Tom",
+        "age": 25
+      },
+      "elementId": "33"
+    }
+  },
+  {
+    "n": {
+      "identity": 34,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Bread"
+      },
+      "elementId": "34"
+    }
+  },
+  {
+    "n": {
+      "identity": 35,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Cheddar cheese"
+      },
+      "elementId": "35"
+    }
+  },
+  {
+    "n": {
+      "identity": 36,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Butter"
+      },
+      "elementId": "36"
+    }
+  },
+  {
+    "n": {
+      "identity": 37,
+      "labels": [
+        "Recipe"
+      ],
+      "properties": {
+        "name": "Pasta Aglio e Olio"
+      },
+      "elementId": "37"
+    }
+  },
+  {
+    "n": {
+      "identity": 38,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Spaghetti"
+      },
+      "elementId": "38"
+    }
+  },
+  {
+    "n": {
+      "identity": 39,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Olive oil"
+      },
+      "elementId": "39"
+    }
+  },
+  {
+    "n": {
+      "identity": 40,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Red pepper flakes"
+      },
+      "elementId": "40"
+    }
+  },
+  {
+    "n": {
+      "identity": 41,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "name": "Rick",
+        "age": 30
+      },
+      "elementId": "41"
+    }
+  },
+  {
+    "n": {
+      "identity": 42,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "name": "Jack",
+        "age": 28
+      },
+      "elementId": "42"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Ingredient"
+      ],
+      "properties": {
+        "name": "Parsley"
+      },
+      "elementId": "44"
+    }
+  }
+]
